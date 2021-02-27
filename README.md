@@ -3,7 +3,7 @@
 My name is Barbara Kocur. I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
 # Tools
 - [Postman](https://www.postman.com/) - Testing tool for REST API
-- [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
+- [Jira](https://www.atlassian.com/pl/software/jira)- Issue tracking and project management tool for developers
 - [Selenium IDE](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd) - Open source record and playback test automation for the web
 - [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
 - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
