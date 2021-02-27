@@ -24,6 +24,8 @@ My name is Barbara Kocur. I have started to interest of software testing. My goa
 - K.Jadczyk - Pasja testowania
 # Recommended blogs
 - testerzy.pl
+- testerka.pl
+- jakzostactesterem.pl
 # Groups on Facebook
 - Testowanie oprogramowania
 - Tester oprogramowania - wsparcie na starcie
