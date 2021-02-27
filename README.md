@@ -18,7 +18,7 @@ My name is Barbara Kocur. I have started to interest of software testing. My goa
 # Certificates
 - [Automation Tester](https://app.diplomasafe.com/pl-PL/diploma/d81f1d0ee1182d4a8c0a9adfcf21945214253e488/tester-automatyzujacy)
 # Courses
-- [Automation Tester](https://sdacademy.pl/kursy/)
+- [Automation Tester](https://sdacademy.pl/kursy/) - Software Development Academy
 # Books
 - R.Smilgin - Zawód tester
 - K.Jadczyk - Pasja testowania
