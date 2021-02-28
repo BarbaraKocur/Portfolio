@@ -29,6 +29,7 @@ My name is Barbara Kocur. I have started to interest of software testing. My goa
 # Groups on Facebook
 - Testowanie oprogramowania
 - Tester oprogramowania - wsparcie na starcie
+- ISTQB - egzaminy,pytania,testy
 # My test case example
 - [Test cases for site c-and-a.com](https://docs.google.com/spreadsheets/d/1p5NCLxt2ePfvxjoVN9fyV7tSxrdDU2B67Wvo--IPShw/edit?usp=sharing)
 # My bug reports
