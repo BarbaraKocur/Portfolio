@@ -1,6 +1,6 @@
 # Portfolio
 # About me
-My name is Barbara Kocur. I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
+My name is Barbara Kocur. I have started to interest of software testing. My goal is to develop testing knowlage and technical skills.I am currently studying for the ISTQB certificate exam. On this site I would like to share my all gained experience from personal studies and researches
 # Tools
 - [Postman](https://www.postman.com/) - Testing tool for REST API
 - [Jira](https://www.atlassian.com/pl/software/jira)- Issue tracking and project management tool for developers
@@ -25,6 +25,7 @@ My name is Barbara Kocur. I have started to interest of software testing. My goa
 # Recommended blogs
 - testerzy.pl
 - testerka.pl
+- dlatesterow.pl
 - jakzostactesterem.pl
 # Groups on Facebook
 - Testowanie oprogramowania
